@@ -5,6 +5,10 @@ Este projeto é uma atividade prática da residência do CEPEDI de Sistemas Emba
 ## Autor
 Mychael Antonio Matos Dos Santos
 
+## Video com demostração do projeto
+
+Link: https://youtu.be/hNsNDYC3Bu8
+
 ## Descrição
 
 O projeto utiliza um microcontrolador RP2040 para:
